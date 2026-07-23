@@ -3,7 +3,7 @@ main: nl.odalitadevelopments.menus.OdalitaMenusPlugin
 version: ${project.version}
 author: OdalitaDevelopments
 website: https://github.com/Odalita-Developments/OdalitaMenus
-api-version: 1.16
-description: Advanced yet simple to use inventory api for Spigot plugins (1.16.5-1.21.4)
+api-version: 1.21
+description: Advanced yet simple to use inventory api for Spigot plugins (1.21.10-26.2)
 
 softdepend: [ProtocolLib]

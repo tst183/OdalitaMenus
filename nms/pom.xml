@@ -14,6 +14,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>common</module>
+        <module>v1_21_R6</module>
         <module>v26_1</module>
         <module>v26_2</module>
     </modules>
