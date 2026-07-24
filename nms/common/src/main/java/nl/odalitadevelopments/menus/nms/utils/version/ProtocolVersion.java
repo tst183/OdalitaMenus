@@ -7,6 +7,7 @@ public enum ProtocolVersion {
 
     MINECRAFT_26_2(776),
     MINECRAFT_26_1(775),
+    MINECRAFT_1_21_10(773),
     NOT_SUPPORTED(0);
 
     private final int number;
